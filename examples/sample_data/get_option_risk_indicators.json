@@ -1,0 +1,12 @@
+[
+  {"symbol": "10005501.SH", "name": "50ETF购8月2650", "exchange": "SH", "date": "20260724", "delta": 0.7620, "gamma": 2.85, "vega": 0.00218, "theta": -0.00061, "rho": 0.00135},
+  {"symbol": "10005502.SH", "name": "50ETF购8月2700", "exchange": "SH", "date": "20260724", "delta": 0.6410, "gamma": 3.42, "vega": 0.00256, "theta": -0.00069, "rho": 0.00118},
+  {"symbol": "10005503.SH", "name": "50ETF购8月2750", "exchange": "SH", "date": "20260724", "delta": 0.5080, "gamma": 3.61, "vega": 0.00271, "theta": -0.00073, "rho": 0.00098},
+  {"symbol": "10005504.SH", "name": "50ETF购8月2800", "exchange": "SH", "date": "20260724", "delta": 0.3720, "gamma": 3.30, "vega": 0.00248, "theta": -0.00067, "rho": 0.00075},
+  {"symbol": "10005505.SH", "name": "50ETF购8月2850", "exchange": "SH", "date": "20260724", "delta": 0.2450, "gamma": 2.61, "vega": 0.00196, "theta": -0.00054, "rho": 0.00052},
+  {"symbol": "10005511.SH", "name": "50ETF沽8月2650", "exchange": "SH", "date": "20260724", "delta": -0.2380, "gamma": 2.85, "vega": 0.00218, "theta": -0.00048, "rho": -0.00060},
+  {"symbol": "10005512.SH", "name": "50ETF沽8月2700", "exchange": "SH", "date": "20260724", "delta": -0.3590, "gamma": 3.42, "vega": 0.00256, "theta": -0.00055, "rho": -0.00082},
+  {"symbol": "10005513.SH", "name": "50ETF沽8月2750", "exchange": "SH", "date": "20260724", "delta": -0.4920, "gamma": 3.61, "vega": 0.00271, "theta": -0.00058, "rho": -0.00104},
+  {"symbol": "10005514.SH", "name": "50ETF沽8月2800", "exchange": "SH", "date": "20260724", "delta": -0.6280, "gamma": 3.30, "vega": null, "theta": null, "rho": -0.00126},
+  {"symbol": "10005515.SH", "name": "50ETF沽8月2850", "exchange": "SH", "date": "20260724", "delta": -0.7550, "gamma": null, "vega": null, "theta": null, "rho": -0.00148}
+]

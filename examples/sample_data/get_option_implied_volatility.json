@@ -1,0 +1,12 @@
+[
+  {"date": "20260724", "symbol": "10005501.SH", "implied_volatility": 0.1685},
+  {"date": "20260724", "symbol": "10005502.SH", "implied_volatility": 0.1642},
+  {"date": "20260724", "symbol": "10005503.SH", "implied_volatility": 0.1610},
+  {"date": "20260724", "symbol": "10005504.SH", "implied_volatility": 0.1628},
+  {"date": "20260724", "symbol": "10005505.SH", "implied_volatility": 0.1671},
+  {"date": "20260724", "symbol": "10005511.SH", "implied_volatility": 0.1720},
+  {"date": "20260724", "symbol": "10005512.SH", "implied_volatility": 0.1683},
+  {"date": "20260724", "symbol": "10005513.SH", "implied_volatility": 0.1655},
+  {"date": "20260724", "symbol": "10005514.SH", "implied_volatility": 0.1666},
+  {"date": "20260724", "symbol": "10005515.SH", "implied_volatility": 0.1702}
+]

@@ -1,0 +1,12 @@
+[
+  {"date": "20260724", "symbol": "10005501.SH", "close": 0.1195, "settlement": 0.1188, "volume": 12040, "open_interest": 45210},
+  {"date": "20260724", "symbol": "10005502.SH", "close": 0.0848, "settlement": 0.0840, "volume": 18320, "open_interest": 62130},
+  {"date": "20260724", "symbol": "10005503.SH", "close": 0.0572, "settlement": 0.0565, "volume": 25610, "open_interest": 88400},
+  {"date": "20260724", "symbol": "10005504.SH", "close": 0.0353, "settlement": 0.0348, "volume": 21050, "open_interest": 71250},
+  {"date": "20260724", "symbol": "10005505.SH", "close": 0.0201, "settlement": 0.0198, "volume": 15400, "open_interest": 53100},
+  {"date": "20260724", "symbol": "10005511.SH", "close": 0.0215, "settlement": 0.0212, "volume": 9820, "open_interest": 41020},
+  {"date": "20260724", "symbol": "10005512.SH", "close": 0.0367, "settlement": 0.0361, "volume": 14230, "open_interest": 58730},
+  {"date": "20260724", "symbol": "10005513.SH", "close": 0.0593, "settlement": 0.0587, "volume": 19870, "open_interest": 79910},
+  {"date": "20260724", "symbol": "10005514.SH", "close": 0.0881, "settlement": 0.0874, "volume": 13560, "open_interest": 60420},
+  {"date": "20260724", "symbol": "10005515.SH", "close": 0.1228, "settlement": 0.1220, "volume": 8110, "open_interest": 38650}
+]

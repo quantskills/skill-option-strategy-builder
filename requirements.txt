@@ -1,0 +1,2 @@
+# 期权策略构建器仅用标准库（BS 模型用 math.erf 实现正态CDF，不依赖 numpy/scipy）；
+# 生产取数依赖 panda_data SDK（由组织 skill-pandadata-api 提供，不在此强制安装）。
