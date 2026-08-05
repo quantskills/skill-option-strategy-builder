@@ -1,0 +1,8 @@
+---
+description: Load the option strategy builder instructions.
+globs: ["**/*.py", "**/*.csv", "**/*.md"]
+alwaysApply: false
+---
+
+Read `SKILL.md` before changing or running this skill. Preserve leg-level assumptions,
+Greeks provenance, margin caveats, and the research-only boundary.

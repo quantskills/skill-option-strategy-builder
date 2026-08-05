@@ -1,5 +1,7 @@
 # skill-option-strategy-builder
 
+[English](README.en.md)
+
 期权策略构建器 —— 输入标的（ETF/指数期权，如 510050.SH 50ETF期权）、结构类型与方向观点，自动**选腿、定价、算希腊、画损益**，产出一张可计算的**策略卡**：损益图、盈亏平衡、最大盈亏、净希腊字母、保证金占用。
 
 > QuantSkills 组织技能 · 数据源 Pandadata · 组织首个期权**策略构建**工具（与 `skill-options-vol-analyst` 的 IV/skew **分析**互补）· 仅供研究参考，不构成投资建议。
@@ -76,3 +78,7 @@ examples/    run_demo.py · sample_data/ · sample_report.md
 ## 免责
 
 希腊字母缺失以 BS 模型补算（近似），保证金为规则估算，实际以券商/交易所为准。数据非实时。仅供研究参考，不构成投资建议。
+
+## 许可证
+
+GPL-3.0-only，详见 [LICENSE](LICENSE)。
