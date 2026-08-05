@@ -7,7 +7,7 @@ description: >
   breakevens, max profit/loss, net Greeks (delta/gamma/vega/theta), and margin.
   Pulls option chain, IV and risk indicators, prices the legs, and outputs a
   structured strategy card.
-license: GPL-3.0
+license: GPL-3.0-only
 category: 工具
 metadata:
   organization: QuantSkills
