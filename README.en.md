@@ -36,3 +36,6 @@ not investment advice. Confirm contract rules and costs with the applicable venu
 ## License
 
 GPL-3.0-only. See [LICENSE](LICENSE).
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.
