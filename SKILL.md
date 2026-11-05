@@ -163,3 +163,7 @@ skill-option-strategy-builder/
 - 希腊字母优先用接口返回的真实值;缺失时用 BS 模型计算(math.erf 实现正态CDF),须声明。
 - 保证金优先用 `get_option_static.margin`(单位保证金);缺失时用规则估算,实际以券商/交易所为准。
 - 只做研究/策略结构参考,不构成投资建议。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
